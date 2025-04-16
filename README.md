@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Ahmed Yassine
 
-<!--
-**Ahmed-Yassine-Hajjaji/Ahmed-Yassine-Hajjaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Mines School passionate about solving real-world problems through code. I’m currently focused on:
 
-Here are some ideas to get you started:
+- 🌐 Web development with Python, HTML/CSS & JavaScript
+- 📊 Data science, machine learning & automation
+- 🧠 Exploring blockchain and distributed systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech I use
+Python Java SQL HTML/CSS JavaScript  
+Flask Pandas Scikit-learn Git VS Code
+
+## 🎯 Goals
+- Build impactful software projects
+- Learn deeply about blockchain & smart contracts
+- Contribute to open-source projects
+- Land a strong internship in software or data
+
+## 📫 Let's connect
+- LinkedIn: https://www.linkedin.com/in/ahmed-yassine-hajjaji-5b2541331/
+- Email: ahmedyassine.hajjaji@enim.ac.ma 
+
+> "Keep building. Keep learning."
