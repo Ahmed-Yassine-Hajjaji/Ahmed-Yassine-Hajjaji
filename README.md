@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Mines School passionate about solving real-world problems through code. I’m currently focused on:
 
-- 🌐 Web development with Python, HTML/CSS & JavaScript
+- 🌐 Web development, Python, HTML/CSS & JavaScript
 - 📊 Data science, machine learning & automation
 - 🧠 Exploring blockchain and distributed systems
 
