@@ -17,7 +17,7 @@ Flask Pandas Scikit-learn Git VS Code
 - Land a strong internship in software or data
 
 ## 📫 Let's connect
-- LinkedIn: https://www.linkedin.com/in/ahmed-yassine-hajjaji-5b2541331/
+- LinkedIn: https://www.linkedin.com/in/ahmedyassinehajjaji/
 - Email: ahmedyassine.hajjaji@enim.ac.ma 
 
 > "Keep building. Keep learning."
