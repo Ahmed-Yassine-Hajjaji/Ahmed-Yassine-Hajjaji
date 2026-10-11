@@ -25,6 +25,7 @@ Based in Lille, France.
 
 ![](https://img.shields.io/badge/-Containers%20%26%20Orchestration-1F2A37?style=flat-square)
 ![](https://img.shields.io/badge/-Docker-36465D?style=flat-square&logo=docker&logoColor=AAAAAA)
+![](https://img.shields.io/badge/-Kubernetes-36465D?style=flat-square&logo=kubernetes&logoColor=AAAAAA)
 
 ![](https://img.shields.io/badge/-AI%20Infrastructure-1F2A37?style=flat-square)
 ![](https://img.shields.io/badge/-vLLM-36465D?style=flat-square&logo=vllm&logoColor=AAAAAA)
